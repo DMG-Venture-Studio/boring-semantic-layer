@@ -1,3 +1,7 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
 # boring-semantic-layer
 
 Semantic layer built on ibis. Wraps ibis tables with dimension/measure metadata, then exposes them over MCP (FastMCP 3.0), LangChain agents, or direct Python API.
